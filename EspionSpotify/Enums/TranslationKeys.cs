@@ -6,6 +6,7 @@
         cbOptBitRate160,
         cbOptBitRate256,
         cbOptBitRate320,
+        cbOptBitRate320Insane,
         cbOptBitRateSpotifyFree,
         cbOptBitRateSpotifyPremium,
         lblAddFolders,
