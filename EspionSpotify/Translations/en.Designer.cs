@@ -95,7 +95,15 @@ namespace EspionSpotify.Translations {
                 return ResourceManager.GetString("cbOptBitRate320", resourceCulture);
             }
         }
-        
+
+        /// <summary>
+        ///   Looks up a localized string similar to 320kbps (Insane, CBR).
+        /// </summary>
+        internal static string cbOptBitRate320Insane {
+            get {
+                return ResourceManager.GetString("cbOptBitRate320Insane", resourceCulture);
+            }
+        }
         /// <summary>
         ///   Looks up a localized string similar to {0} (Spotify Free).
         /// </summary>

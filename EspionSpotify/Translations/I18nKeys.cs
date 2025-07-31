@@ -8,6 +8,7 @@ namespace EspionSpotify.Translations
         public static TranslationKeys CbOptBitRate160 => TranslationKeys.cbOptBitRate160;
         public static TranslationKeys CbOptBitRate256 => TranslationKeys.cbOptBitRate256;
         public static TranslationKeys CbOptBitRate320 => TranslationKeys.cbOptBitRate320;
+        public static TranslationKeys CbOptBitRate320Insane => TranslationKeys.cbOptBitRate320Insane;
         public static TranslationKeys CbOptBitRateSpotifyFree => TranslationKeys.cbOptBitRateSpotifyFree;
         public static TranslationKeys CbOptBitRateSpotifyPremium => TranslationKeys.cbOptBitRateSpotifyPremium;
 

@@ -470,7 +470,8 @@ namespace EspionSpotify
                     LAMEPreset.ABR_320,
                     string.Format(Rm.GetString(I18NKeys.CbOptBitRateSpotifyPremium) ?? "{0}",
                         Rm.GetString(I18NKeys.CbOptBitRate320))
-                }
+                },
+                {LAMEPreset.INSANE, Rm.GetString(I18NKeys.CbOptBitRate320Insane)}
             };
 
             var isCustomBitrate = indexBitRate > bitrates.Count;

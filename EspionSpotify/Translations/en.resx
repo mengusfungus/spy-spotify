@@ -133,6 +133,10 @@
     <value>320kbps</value>
     <comment>interface --</comment>
   </data>
+  <data name="cbOptBitRate320Insane" xml:space="preserve">
+    <value>320kbps (Insane, CBR)</value>
+    <comment>interface --</comment>
+  </data>
   <data name="cbOptBitRateSpotifyFree" xml:space="preserve">
     <value>{0} (Spotify Free)</value>
     <comment>interface --</comment>
